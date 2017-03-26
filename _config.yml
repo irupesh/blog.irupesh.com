@@ -60,7 +60,7 @@ username: irupesh
 repo: blog.irupesh.com
 branch: master
 relative_source: ../blog.irupesh.com/
-destination: ../blog.irupesh.com/
+destination: ../blog.irupesh.com-pages/
 production_url:  https://irupesh.github.io/blog.irupesh.com/
 source_url:      https://irupesh.github.io/blog.irupesh.com/
 
