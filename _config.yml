@@ -7,23 +7,23 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Rupesh's Blog'
+description: "This is where I will tell my friends way too much about me."
 
 # Author's info
-author: 'Casper McFadden'
+author: 'Rupesh Ranjan'
 # edit 'categories' in the front matter of every post to match this username
-nickname: casper
-bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
+nickname: Rupesh
+bio: 'This is where I will tell my friends way too much about me.'
+location: 'India'
 url: 'http://biomadeira.github.io/jasper/'
 image: 'assets/images/casper.png'
 
-short_url: 'biomadeira.github.io/jasper/'
-google_analytics: UA-69281367-1
+short_url: 'https://irupesh.github.io/blog.irupesh.com/'
+google_analytics: 
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: /blog.irupesh.com/
 
 # Permalinks
 permalink: /:title
@@ -56,13 +56,13 @@ exclude: [vendor]
 # or "master" otherwise
 safe: false
 lsi: false
-username: biomadeira
-repo: jasper
+username: irupesh
+repo: blog.irupesh.com
 branch: master
-relative_source: ../jasper/
-destination: ../jasper-pages/
-production_url:  https://biomadeira.github.io/jasper/
-source_url:      https://github.com/biomadeira/jasper/
+relative_source: ../blog.irupesh.com/
+destination: ../blog.irupesh.com/
+production_url:  https://irupesh.github.io/blog.irupesh.com/
+source_url:      https://irupesh.github.io/blog.irupesh.com/
 
 exclude:
   - README.md
