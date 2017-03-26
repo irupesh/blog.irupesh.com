@@ -20,7 +20,7 @@ url: 'https://irupesh.github.io/blog.irupesh.com/'
 image: 'assets/images/casper.png'
 
 short_url: 'irupesh.github.io/blog.irupesh.com/'
-google_analytics: 55226632 
+google_analytics: 5522663223
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /blog.irupesh.com/
