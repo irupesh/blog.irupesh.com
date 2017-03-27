@@ -7,23 +7,23 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Rupeshs Blog'
-description: "This is where I will tell my friends way too much about me."
+name: "Rupesh's Blog"
+description: "This is where I will tell my friends way too much about me..!"
 
 # Author's info
 author: 'Rupesh Ranjan'
 # edit 'categories' in the front matter of every post to match this username
 nickname: Rupesh
-bio: 'This is where I will tell my friends way too much about me.'
+bio: ' I like coffee, cars and Linux. I enjoy building stuff, investigating new technologies. I tend to follow start-ups scene.'
 location: 'India'
-url: 'https://irupesh.github.io/blog.irupesh.com/'
+url: 'http://blog.irupesh.com/'
 image: 'assets/images/casper.png'
 
-short_url: 'irupesh.github.io/blog.irupesh.com/'
-google_analytics: 5522663223
-disqus: username
+short_url: 'blog.irupesh.com/'
+google_analytics: UA-60848443-3
+disqus: irupesh
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /blog.irupesh.com/
+baseurl: /
 
 # Permalinks
 permalink: /:title
@@ -61,8 +61,8 @@ repo: blog.irupesh.com
 branch: master
 relative_source: ../blog.irupesh.com/
 destination: ../blog.irupesh.com-pages/
-production_url:  https://irupesh.github.io/blog.irupesh.com/
-source_url:      https://irupesh.github.io/blog.irupesh.com/
+production_url:  http://blog.irupesh.com/
+source_url:      http://blog.irupesh.com/
 
 exclude:
   - README.md
