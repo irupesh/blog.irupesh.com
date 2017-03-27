@@ -3,20 +3,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>irupesh.github.io/blog.irupesh.com/</title>
+      <title>blog.irupesh.com/</title>
    
-   <link>https://irupesh.github.io/blog.irupesh.com/</link>
-   <description>This is where I will tell my friends way too much about me.</description>
+   <link>http://blog.irupesh.com/</link>
+   <description>This is where I will tell my friends way too much about me..!</description>
    <language>en-uk</language>
    <managingEditor> Rupesh Ranjan</managingEditor>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>The Businessman & the fisherman</title>
-	  <link>/blog.irupesh.com//the-businessman-and-fisherman</link>
+	  <link>//the-businessman-and-fisherman</link>
 	  <author>Rupesh Ranjan</author>
 	  <pubDate>2014-08-12T10:18:00+00:00</pubDate>
-	  <guid>/blog.irupesh.com//the-businessman-and-fisherman</guid>
+	  <guid>//the-businessman-and-fisherman</guid>
 	  <description><![CDATA[
 	     <p>An American businessman took a vacation to a small coastal Mexican village on doctor’s orders. Unable to sleep after an urgent phone call from the office the first morning, he walked out to the pier to clear his head. A small boat with just one fisherman had docked, and inside the boat were several large yellowfin tuna. The American complimented the Mexican on the quality of his fish.</p>
 

@@ -3,20 +3,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>irupesh.github.io/blog.irupesh.com/</title>
+      <title>blog.irupesh.com/</title>
    
-   <link>https://irupesh.github.io/blog.irupesh.com/</link>
-   <description>This is where I will tell my friends way too much about me.</description>
+   <link>http://blog.irupesh.com/</link>
+   <description>This is where I will tell my friends way too much about me..!</description>
    <language>en-uk</language>
    <managingEditor> Rupesh Ranjan</managingEditor>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>A Full and Comprehensive Style Test</title>
-	  <link>/blog.irupesh.com//a-full-and-comprehensive-style-test</link>
+	  <link>//a-full-and-comprehensive-style-test</link>
 	  <author>Rupesh Ranjan</author>
 	  <pubDate>2014-09-27T10:18:00+00:00</pubDate>
-	  <guid>/blog.irupesh.com//a-full-and-comprehensive-style-test</guid>
+	  <guid>//a-full-and-comprehensive-style-test</guid>
 	  <description><![CDATA[
 	     <p>This is just an <em>ipsis verbis</em> copy of the first example running on the <a href="http://demo.ghost.io">Ghost Demo</a>. This shows how you can use html styling to achieve your hopes.</p>
 
