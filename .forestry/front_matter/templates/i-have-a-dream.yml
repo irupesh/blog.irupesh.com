@@ -1,13 +1,13 @@
 ---
-label: I Have a Dream
-hide_body: 
-is_partial: 
+label: posts_default
+hide_body: false
+is_partial: false
 fields:
 - name: layout
   label: Layout
   type: text
   hidden: false
-  default: ''
+  default: post
 - name: title
   label: Title
   type: text
@@ -17,12 +17,12 @@ fields:
   label: Navigation
   type: boolean
   hidden: false
-  default: ''
+  default: true
 - name: logo
   label: Logo
   type: text
   hidden: false
-  default: ''
+  default: assets/images/logo.png
 - name: cover
   label: Cover
   type: boolean
@@ -33,6 +33,8 @@ fields:
   type: datetime
   hidden: false
   default: ''
+  config:
+    required: true
 - name: tags
   label: Tags
   type: tag_list
