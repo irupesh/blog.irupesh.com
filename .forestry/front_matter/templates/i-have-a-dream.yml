@@ -51,4 +51,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/this-is-for-hiral-demo.md
 - _posts/2018-08-16-this-is-for-test.md
