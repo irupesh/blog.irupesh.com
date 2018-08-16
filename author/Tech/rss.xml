@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>blog.irupesh.com/</title>
+   
+   <link>http://blog.irupesh.com/</link>
+   <description>This is where I will tell my friends way too much about me..!</description>
+   <language>en-uk</language>
+   <managingEditor> Rupesh Ranjan</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>This is for Test</title>
+	  <link>//this-is-for-test</link>
+	  <author>Rupesh Ranjan</author>
+	  <pubDate>2018-08-16T00:00:00+00:00</pubDate>
+	  <guid>//this-is-for-test</guid>
+	  <description><![CDATA[
+	     <p><strong>Hello there,</strong></p>
+
+<p>This is just a post to test.</p>
+
+<ol>
+  <li>heee</li>
+  <li>dfda</li>
+  <li>dfs</li>
+  <li>fs</li>
+</ol>
+
+<blockquote>
+  <p>dbdfijkdfkna</p>
+
+  <p>adfbjadad</p>
+
+  <p>badj</p>
+</blockquote>
+
+<p>adfghjmbafd</p>
+
+<p>dfajbadk</p>
+
+<p>bye.</p>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>
